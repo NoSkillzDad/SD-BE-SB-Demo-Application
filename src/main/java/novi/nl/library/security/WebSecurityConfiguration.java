@@ -79,5 +79,4 @@ public class WebSecurityConfiguration extends WebSecurityConfigurerAdapter {
         htppSecurty.addFilterBefore(jwtRequestFilter, UsernamePasswordAuthenticationFilter.class);
     }
 
-
 }

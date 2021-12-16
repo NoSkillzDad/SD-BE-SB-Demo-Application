@@ -56,4 +56,5 @@ Current settings:
 * DELETE /api/v1/users/{username}/authorities/{authority}
 * PATCH /api/v1/users/{username}/password
 
+#### A Postman export has been included in the documentation directory.
 
